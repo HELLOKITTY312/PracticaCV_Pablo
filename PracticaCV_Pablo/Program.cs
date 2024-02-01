@@ -4,19 +4,20 @@
     {
         static void Main(string[] args)
         {
-           //Constantes
+            //Constantes
 
 
-           //Variables
+            //Variables
 
 
-           //Entrada
+            //Entrada
 
 
-           //Proceso
+            //Proceso
 
 
-           //Salida
+            //Salida
+            Console.WriteLine("Mi Nombre es:");
         }
     }
 }
