@@ -8,5 +8,17 @@ namespace PracticaCV_Pablo
 {
     internal class clase_pablo
     {
+        //Constantes
+
+        //Miembros privados
+
+        //Constructores
+
+        //Propiedades
+
+        //Metodos privados
+
+        //Metodos Publicos
+
     }
 }
